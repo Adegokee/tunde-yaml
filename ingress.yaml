@@ -29,7 +29,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  namespace: tunde-app
+  namespace: tunde-app-service
   name: tunde-app-service
 spec:
   ports:
